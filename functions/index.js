@@ -5,7 +5,7 @@ const app = require('express')()
 admin.initializeApp()
 
 const config = {
-  apiKey: 'AIzaSyCuWC9Ytx6h82V05EBItbyOEzuLx1Aw_hc',
+  apiKey: '',
   authDomain: 'social-app-f23ce.firebaseapp.com',
   databaseURL: 'https://social-app-f23ce.firebaseio.com',
   projectId: 'social-app-f23ce',
